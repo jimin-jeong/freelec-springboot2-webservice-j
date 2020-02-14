@@ -27,13 +27,6 @@ version '1.0-SNAPSHOT'
 
 sourceCompatibility = 1.8
 
-/*이건 내가 구글링해서 찾아본거*/
-/*bootJar {
-    mainClassName='com.jojoldu.book.springboot.Application'
-}
-*/
-//bootJar.enabled=false
-
 repositories {
     mavenCentral()
     jcenter()
