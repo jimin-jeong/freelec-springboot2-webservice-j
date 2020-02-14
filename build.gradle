@@ -32,7 +32,7 @@ sourceCompatibility = 1.8
     mainClassName = 'com.jojoldu.book.springboot.Application'
 }
 */
-bootJar.enabled=false
+//bootJar.enabled=false
 
 repositories {
     mavenCentral()
